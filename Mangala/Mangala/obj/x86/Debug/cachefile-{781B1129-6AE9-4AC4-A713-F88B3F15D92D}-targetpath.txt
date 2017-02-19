@@ -1,0 +1,11 @@
+Content\SplashFont.xnb
+Content\MenuFont.xnb
+Content\SkorFont.xnb
+Content\brick1.xnb
+Content\Background.xnb
+Content\Board2.xnb
+Content\circle_grey.xnb
+Content\Boing.xnb
+Content\Swordswi.xnb
+Content\music4.xnb
+Content\Lose.xnb

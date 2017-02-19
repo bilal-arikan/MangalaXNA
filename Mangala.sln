@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mangala", "Mangala\Mangala\Mangala.csproj", "{9C3CB55A-8875-49E2-8BF6-B8B30132A8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangalaContent", "Mangala\MangalaContent\MangalaContent.contentproj", "{781B1129-6AE9-4AC4-A713-F88B3F15D92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arikan.GUI", "..\Arikan\Arikan\Arikan.GUI.csproj", "{9BF0748D-E8DF-4E8A-BAC6-FC7D4991B350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3CB55A-8875-49E2-8BF6-B8B30132A8CF}.Debug|x86.ActiveCfg = Debug|x86
+		{9C3CB55A-8875-49E2-8BF6-B8B30132A8CF}.Debug|x86.Build.0 = Debug|x86
+		{9C3CB55A-8875-49E2-8BF6-B8B30132A8CF}.Release|x86.ActiveCfg = Release|x86
+		{9C3CB55A-8875-49E2-8BF6-B8B30132A8CF}.Release|x86.Build.0 = Release|x86
+		{781B1129-6AE9-4AC4-A713-F88B3F15D92D}.Debug|x86.ActiveCfg = Debug|x86
+		{781B1129-6AE9-4AC4-A713-F88B3F15D92D}.Release|x86.ActiveCfg = Release|x86
+		{9BF0748D-E8DF-4E8A-BAC6-FC7D4991B350}.Debug|x86.ActiveCfg = Debug|x86
+		{9BF0748D-E8DF-4E8A-BAC6-FC7D4991B350}.Debug|x86.Build.0 = Debug|x86
+		{9BF0748D-E8DF-4E8A-BAC6-FC7D4991B350}.Release|x86.ActiveCfg = Release|x86
+		{9BF0748D-E8DF-4E8A-BAC6-FC7D4991B350}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
